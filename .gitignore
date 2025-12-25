@@ -1,5 +1,5 @@
-runs/
-mmdb/
+# runs/
+# mmdb/
 samples/
 *.pyc
 clustertools/mapping-rfc.txt

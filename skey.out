@@ -1,0 +1,5 @@
+nohup: ignoring input
+Running ./skey-all.sh at 20251116-121805
+Checking country IE in dir /root/code/surveys/mmdb
+grep: /root/code/surveys/mmdb/countrycodes.txt: No such file or directory
+Country IE isn't known

@@ -1,0 +1,17 @@
+nohup: ignoring input
+Running /root/code/surveys/skey-all.sh at 20251116-125800
+Checking country IE in dir /root/code/surveys/mmdb
+Starting at 20251116-125800, log in 20251116-125800.out
+starting maxmind
+srcdir is /root/code/surveys
+maxmind done
+The current directory is: /root/data/smtp/runs/IE-20251116-125800
+starting zmap
+zmap done
+Skipping grab
+Getting fresh records
+Done getting fresh records
+Clustering records
+Done clustering records
+Graphing records
+Done graphing records
