@@ -75,12 +75,12 @@ s.close()
 # port parameters (zgrab2 module syntax)
 pparms={
         '22': 'ssh --port 22 --host-key-algorithms ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-rsa,ssh-dss,ssh-ed25519',
-        '25': 'smtp --port 25 --max-version=771',
-        '110': 'pop3 --port 110 --starttls --max-version=771',
-        '143': 'imap --port 143 --starttls --max-version=771',
-        '443': 'http --port 443 --use-https --max-version=771',
-        '587': 'smtp --port 587 --max-version=771',
-        '993': 'imap --port 993 --imaps --max-version=771',
+        '25': 'smtp --port 25 --max-version=772',
+        '110': 'pop3 --port 110 --starttls --max-version=772',
+        '143': 'imap --port 143 --starttls --max-version=772',
+        '443': 'http --port 443 --use-https --max-version=772',
+        '587': 'smtp --port 587 --max-version=772',
+        '993': 'imap --port 993 --imaps --max-version=772',
         }
 
 def zgrab2_to_v1(port, v2_result):
